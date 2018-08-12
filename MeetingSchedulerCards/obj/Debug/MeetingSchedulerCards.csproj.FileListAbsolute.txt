@@ -1,0 +1,47 @@
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Bot Application.dll.config
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Bot Application.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Bot Application.pdb
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\AdaptiveCards.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Autofac.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Chronic.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Bot.Builder.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Bot.Builder.Location.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Bot.Connector.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Newtonsoft.Json.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.Net.Http.Formatting.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.Web.Http.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.Web.Http.WebHost.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Autofac.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Bot.Builder.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Bot.Connector.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.Rest.ClientRuntime.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\Newtonsoft.Json.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.Net.Http.Formatting.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.Web.Http.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\System.Web.Http.WebHost.xml
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\it\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\nl\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\obj\Debug\MeetingSchedulerCards.csprojAssemblyReference.cache
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\obj\Debug\MeetingSchedulerCards.csproj.CoreCompileInputs.cache
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\obj\Debug\MeetingSchedulerCards.csproj.CopyComplete
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\obj\Debug\Bot Application.dll
+C:\Users\Creative\source\repos\MeetingBot\Lesson05\MeetingSchedulerCards\obj\Debug\Bot Application.pdb
